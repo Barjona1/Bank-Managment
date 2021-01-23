@@ -5,7 +5,7 @@
 * This is a simple Bank Management System project that is written in C++. 
 
 
-You can watch a demo of my program here:[Software Demo Video ](https://youtu.be/fGQVLQ_tuow)
+You can watch a demo of my program here: [Software Demo Video ](https://youtu.be/fGQVLQ_tuow)
 
 # Development Environment
 
