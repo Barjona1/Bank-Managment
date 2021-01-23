@@ -9,8 +9,8 @@ You can watch a demo of my program here: [Software Demo Video ](https://youtu.be
 
 # Development Environment
 
-{Visual Studio (Community 2019)}
-{C++}
+* Visual Studio (Community 2019)
+* C++
 
 # Useful Websites
 
